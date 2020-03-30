@@ -1,4 +1,4 @@
-# Team name
+# Epsilon Team
 Team slogan 
 
 ## Members:
